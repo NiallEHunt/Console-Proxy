@@ -1,0 +1,3 @@
+﻿.*reddit.com
+.*youtube.com
+.*bbc.co.uk
